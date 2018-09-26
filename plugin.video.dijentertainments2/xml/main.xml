@@ -1,11 +1,26 @@
 <xml>
   <dir>
-    <title>Formats</title>
-    <link>file://formats/main.xml</link>
+    <title>Tv Shows</title>
+    <link>file://shared lists/tv_shows.xml</link>
   </dir>
 
   <dir>
-    <title>Shared Lists</title>
+    <title>Movies</title>
+    <link>file://shared lists/tv_shows.xml</link>
+  </dir>
+  
+  <dir>
+    <title>Kids</title>
+    <link>file://shared lists/main.xml</link>
+  </dir>
+
+ <dir>
+    <title>Fitness</title>
+    <link>file://shared lists/main.xml</link>
+  </dir>
+
+ <dir>
+    <title>WWE</title>
     <link>file://shared lists/main.xml</link>
   </dir>
 </xml>
