@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.dijentertainments2" name="DIJ ENTERTAINMENTS 2.0" version="2.1" provider-name="Mr Smith">
+<addon id="plugin.video.dijentertainments2" name="DIJ ENTERTAINMENTS 2.0" version="2.2" provider-name="Mr Smith">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
         <import addon="script.module.universalscrapers" version="1.0.0" />
